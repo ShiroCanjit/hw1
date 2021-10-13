@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Library_factory {
-    File file = new File("controller/file1");
+    File file = new File("file1");
 
 
        public String getAuthor(String author) throws IOException {
